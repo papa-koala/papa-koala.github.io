@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-title: papa-koala
+theme: jekyll-theme-dinky
+title: Papa Koala
 description: the french koala
 
 plugins:
@@ -9,6 +9,5 @@ relative_links:
   collections: true
 include:
   - about.md
-  - index.md
+  - homepage.md
 
-theme: jekyll-theme-tactile
