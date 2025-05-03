@@ -9,5 +9,5 @@ relative_links:
   collections: true
 include:
   - about.md
-  - homepage.md
+  - index.md
 
