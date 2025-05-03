@@ -1,1 +1,4 @@
-# Papa Koala
+---
+layout: default
+title: Homepage
+---
